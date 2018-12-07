@@ -1,6 +1,7 @@
 练习leetcode题目 --javascript
 ==== 
-每日一练！<br>
+[leetcode网站](https://leetcode.com/)每日一练。
+  <br>
 目录：
 ----
 | 题号 | 标题 | 难度 | 代码 |
