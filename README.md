@@ -10,3 +10,4 @@
 | 007 | 反转数字 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-007.js) |
 | 009 | 回文数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-009.js) |
 | 013 | 罗马数字 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-013.js) |
+| 014 | 公共字符串 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-014.js) |
