@@ -13,3 +13,4 @@
 |05| 014 | 公共字符串 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-014.js) |
 |06| 020 | 有效括号 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-020.js) |
 |07| 021 | 合并链表 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-021.js) |
+|08| 026 | 删除数组中重复项 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-026.js) |
