@@ -17,3 +17,4 @@
 |09| 027 | 移除数组中某元素 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-027.js) |
 |10| 028 | 实现strStr() | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-028.js) |
 |11| 035 | 查找插入位置 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-035.js) |
+|12| 038 | 报数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-038.js) |
