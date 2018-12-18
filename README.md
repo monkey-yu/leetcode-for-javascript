@@ -18,3 +18,4 @@
 |10| 028 | 实现strStr() | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-028.js) |
 |11| 035 | 查找插入位置 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-035.js) |
 |12| 038 | 报数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-038.js) |
+|13| 053 | 最大子序列和 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-053.js) |
