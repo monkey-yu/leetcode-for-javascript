@@ -20,3 +20,4 @@
 |12| 038 | 报数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-038.js) |
 |13| 053 | 最大子序列和 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-053.js) |
 |14| 058 | 最后一个单词长度 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-058.js) |
+|15| 066 | 加一 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-066.js) |
