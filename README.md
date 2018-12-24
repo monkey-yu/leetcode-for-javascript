@@ -24,3 +24,4 @@
 |16| 067 | 二进制相加 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-067.js) |
 |17| 069 | 开平方根 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-069.js) |
 |18| 070 | 爬楼梯 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-070.js) |
+|19| 083 | 移除有序链表中的重复项 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-083.js) |
