@@ -27,3 +27,4 @@
 |19| 083 | 移除有序链表中的重复项 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-083.js) |
 |20| 088 | 合并两个有序数组 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-088.js) |
 |21| 100 | 相同的树 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-100.js) |
+|22| 118 | 杨辉三角 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-118.js) |
