@@ -30,3 +30,4 @@
 |22| 118 | 杨辉三角 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-118.js) |
 |23| 119 | 杨辉三角2 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-119.js) |
 |24| 121 | 最佳时间买卖股票 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-121.js) |
+|25| 122 | 多次买卖股票获取最大收益值 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-122.js) |
