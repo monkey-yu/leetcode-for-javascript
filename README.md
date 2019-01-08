@@ -34,3 +34,4 @@
 |26| 125 | 验证回文串  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-125.js) |
 |27| 136 | 数组中的单个数  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-136.js) |
 |28| 167 | 两数之和 II - 输入有序数组  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-167.js) |
+|29| 168 | Excel表列名称  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-168.js) |
