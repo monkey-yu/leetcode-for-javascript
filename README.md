@@ -37,4 +37,6 @@
 |29| 168 | Excel表列名称  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-168.js) |
 |30| 169 | 数组中重复最多项  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-169.js) |
 |31| 171 | excel表头转数字  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-171.js) |
-|32| 175 | 合并2个表 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-175.sql) |
+|32| 172 | 阶乘后的0  | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-172.js) |
+|33| 175 | 合并2个表 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-175.sql) |
+
