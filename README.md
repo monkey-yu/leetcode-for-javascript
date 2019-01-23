@@ -41,3 +41,4 @@
 |33| 175 | 合并2个表 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-175.sql) |
 |34| 189 | 旋转数组 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-189.js) |
 |35| 190 | 反转2进制 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-190.js) |
+|36| 191 | 2进制中1的数量 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-191.js) |
