@@ -43,3 +43,4 @@
 |35| 190 | 反转2进制 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-190.js) |
 |36| 191 | 2进制中1的数量 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-191.js) |
 |37| 204 | 数质数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-204.js) |
+|38| 205 | 同构字符串 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-205.js) |
