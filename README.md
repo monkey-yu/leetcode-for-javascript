@@ -45,3 +45,4 @@
 |37| 204 | 数质数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-204.js) |
 |38| 205 | 同构字符串 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-205.js) |
 |39| 217 | 数组中包含重复项 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-217.js) |
+|40| 219 | 数组中包含重复项2 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-219.js) |
