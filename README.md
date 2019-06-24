@@ -48,3 +48,4 @@
 |40| 219 | 数组中包含重复项2 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-219.js) |
 |41| 231 | 是否为2的幂次方 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-231.js) |
 |42| 258 | 各位数相加得到个位数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-258.js) |
+|43| 263 | 丑数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-263.js) |
