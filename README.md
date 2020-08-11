@@ -53,3 +53,4 @@
 |45| 283 | 数组里0移到末尾 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-283.js) |
 |46| 290 | 单词匹配 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-290.js) |
 |47| 326 | 是否为3的幂数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-326.js) |
+|48| 342 | 是否为4的幂数 | 简单 | [点这里](https://github.com/monkey-yu/leetcode-for-javascript/blob/master/Code/leetcode-342.js) |
